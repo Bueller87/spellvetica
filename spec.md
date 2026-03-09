@@ -7,6 +7,8 @@ The MVP should provide a strong foundation for future features while staying sim
 
 The MVP should not require any backend server, cloud account, or hosted database. All saved data should be stored locally in the browser.
 
+Product Name: Spellvetica
+
 ## 2. Primary Users
 
 ### Primary user
